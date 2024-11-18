@@ -13,7 +13,7 @@ A Discord bot that manages trivia quizzes using the Open Trivia Database API. Us
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/trivia-bot.git
+   git clone https://github.com/MrTroxy/TriviaBot.git
    cd trivia-bot
    ```
 
