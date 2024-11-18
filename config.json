@@ -1,0 +1,7 @@
+{
+  "token": "TOKEN_HERE",
+  "clientId": "DISCORD_BOT_USER_ID_HERE",
+  "guildId": "SERVER_ID_HERE",
+  "trivia_api_url": "https://opentdb.com/api.php",
+  "question_timer": 30
+}
